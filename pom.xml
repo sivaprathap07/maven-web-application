@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>ICICI Bank release nexus Repository</name>
-	      <url>http://18.130.12.223:9980/jyothsna/repository/icicibank-release/</url>
+	      <name>prathap devc release nexus repository</name>
+	      <url>http://54.211.14.174:9980/prathap/repository/prathap-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>ICICI Bank snapshot nexus Repository</name>
-	      <url>http://18.130.12.223:9980/jyothsna/repository/icicibank-snapshot/</url>
+	      <name>prathap devc snapshot nexus Repository</name>
+	      <url>http://54.211.14.174:9980/prathap/repository/prathap-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
